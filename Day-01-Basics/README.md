@@ -6,7 +6,6 @@
 
 - GoLang basics
 - Variables
-- Constants
 - Simple values
 
 ## Coding Practice
